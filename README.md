@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luckydc65
 - 👀 I’m interested in Data Science and Data Analysis
-- 🌱 I’m currently learning SQL, Tableau, Python, Exploring Data, Make Dashboard
+- 🌱 I’m currently learning SQL, Tableau, Python, Make Dashboard
 - 📫 You can contact me in email @lucky.dwi@sci.ui.ac.id
 
 <!---
